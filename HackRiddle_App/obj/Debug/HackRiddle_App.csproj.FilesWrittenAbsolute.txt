@@ -1,5 +1,0 @@
-/Users/cameronstark/Projects/HackRiddle_App/HackRiddle_App/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/cameronstark/Projects/HackRiddle_App/HackRiddle_App/bin/HackRiddle_App.dll.mdb
-/Users/cameronstark/Projects/HackRiddle_App/HackRiddle_App/bin/HackRiddle_App.dll
-/Users/cameronstark/Projects/HackRiddle_App/HackRiddle_App/obj/Debug/HackRiddle_App.dll
-/Users/cameronstark/Projects/HackRiddle_App/HackRiddle_App/obj/Debug/HackRiddle_App.dll.mdb
