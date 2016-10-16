@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{79DD44A2-75A9-46DC-970A-0A67B243D4CC}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HackRiddle__App PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
